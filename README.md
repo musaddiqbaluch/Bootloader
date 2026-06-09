@@ -2,6 +2,18 @@
 
 A lightweight Android utility that inspects your device's bootloader status using low-level system properties — no root, no ADB, fully offline.
 
+<img src="https://raw.githubusercontent.com/musaddiqbaluch/Bootloader/main/ic_launcher.png" width="80"/>
+
+---
+
+## 📸 Screenshots
+
+<p>
+<img src="https://raw.githubusercontent.com/musaddiqbaluch/Bootloader/main/Bootloader-screenshot1.png" width="200"/>
+<img src="https://raw.githubusercontent.com/musaddiqbaluch/Bootloader/main/Bootloader-screenshot2.png" width="200"/>
+<img src="https://raw.githubusercontent.com/musaddiqbaluch/Bootloader/main/Bootloader-screenshot3.png" width="200"/>
+</p>
+
 ---
 
 ## 🔍 What It Checks
